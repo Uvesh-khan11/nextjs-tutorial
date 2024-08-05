@@ -1,0 +1,1 @@
+This is basic next js tutorial and its just for practice.
